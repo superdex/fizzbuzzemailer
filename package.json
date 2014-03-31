@@ -1,0 +1,11 @@
+{ 
+	"name": "FizzBuzzEmailer",
+	"preferGlobal": true,
+	"version": "0.1.0",
+	"author": "sgd@thinksafely.org",
+	"description": "A Little NodeJs console app that prompts for your email, runs FizzBuzz and sends the results",
+	"dependencies": {
+	"nodemailer": "*",
+	"readline": "*"
+	}
+	}
